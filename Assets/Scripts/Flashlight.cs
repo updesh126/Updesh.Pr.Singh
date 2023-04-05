@@ -26,14 +26,14 @@ public class Flashlight : MonoBehaviour
 
     void Update()
     {
-        if(off && Input.GetButtonDown("F"))
+        if(off && Input.GetButtonDown("f"))
         {
             flashlight.SetActive(true);
             turnOn.Play();
             off = false;
             on = true;
         }
-        else if (on && Input.GetButtonDown("F"))
+        else if (on && Input.GetButtonDown("f"))
         {
             flashlight.SetActive(false);
             turnOff.Play();
