@@ -22,15 +22,7 @@ I'm a Game developer...
 <p>
 
 
-## Language & Framework
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++ language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
+
 
 ## 💻 My workspace
   [![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/in/)
@@ -47,15 +39,7 @@ I'm a Game developer...
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![ZORIN OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
-## Software
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Filmora](https://img.shields.io/badge/filmora-0A66C2?style=for-the-badge&logo=filmora&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://updesh126.github.io/MyPortfolio/)
@@ -63,14 +47,5 @@ I'm a Game developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pratap_updesh?t=HWjRxZFZaejV7fxjTGcyxw&s=09)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKn8LcrUSyCk3osE9pU9Bxw)
 
-## HacktoberFest 2K22
-[![@updesh126's Holopin board](https://holopin.me/updesh126)](https://holopin.io/@updesh126)
 
-## Trophies 🏆
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=updesh126&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
-</p>
-<hr>
-<br>
 
